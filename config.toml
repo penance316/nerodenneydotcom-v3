@@ -1,28 +1,28 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "nerodenney.com"
+languageCode = "en-gb"
+title = "NeroDenney.com"
 theme = "introduction"
 
 [params]
     blogHead        = "Blog"                        # Full name shows on blog post pages
-    firstName       = "Nero"                # First name shows in introduction on main page
-    tagLine         = "design, develop, deploy"       # Appears after the introduction
+    firstName       = "Nero"                        # First name shows in introduction on main page
+    tagLine         = "Design - Develop - Deploy"     # Appears after the introduction
     introHeight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
     themeStyle      = "dark"                        # Choose 'light' or 'dark'
-    avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email           = "nerodenney@gmail.com"         # Shows in contact section, or leave blank to omit
-    # localTime       = true                          # Show your current local time in contact section
-    # timeZone        = "America/Los_Angeles"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    avatar          = "img/profile.png"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    email           = "nerodenney@gmail.com"        # Shows in contact section, or leave blank to omit
+    # localTime       = true                        # Show your current local time in contact section
+    # timeZone        = "America/Los_Angeles"       # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateForm        = "Jan 2, 2006"
     dateFormFull    = "Mon Jan 2 2006 15:04:05 EST"
     cacheBuster     = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
     description     = "Website Description"         # Max 160 characters show in search results
-    faviconFile     = "img/fav.ico"
+    faviconFile     = "favicon.ico"
     highlightjs     = true                          # Syntax highlighting
-    footerText      = "my footer here"                            # Text to show in footer (overrides default text)
+    footerText      = "Copyright © Nero Denney 2018"# Text to show in footer (overrides default text)
     fadeIn          = true                          # Turn on/off the fade-in effect
 
-    showBlog            = false                      # Show Blog section on home page
+    showBlog            = false                     # Show Blog section on home page
     showProjects        = true                      # Show Projects section on home page
     projectColumns      = "3"                       # Choose "2" or "3" columns for projects section
     placeHolderimg      = "/img/workday.jpg"        # For Projects without image
@@ -40,13 +40,13 @@ theme = "introduction"
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url = "https://twitter.com/"
-    icon = "twitter"
-
-[[params.social]]
-    url = "https://facebook.com/"
-    icon = "facebook"
-
-[[params.social]]
-    url = "https://linkedin.com/"
+    url = "https://linkedin.com/in/nerodenney/"
     icon = "linkedin"
+
+[[params.social]]
+    url = "https://github.com/penance316"
+    icon = "github"
+
+[[params.social]]
+    url = "https://bitbucket.org/nero_d/"
+    icon = "bitbucket"
