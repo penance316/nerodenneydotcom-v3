@@ -1,0 +1,9 @@
+---
+date: 2016-08-11
+image: "img/portfolio/gisviewer.jpg"
+title: GIS Viewer Concept
+---
+
+A proof of concept GIS viewer built in AngularJS and OpenLayers3. This project was to test out the capabilities of the OpenLayers3 framework and includes the ability to have multiple mapping layers, draw shapes and a postcode search. 
+
+<a href="https://github.com/penance316/gisviewer/" target="_blank">View on GitHub</a>

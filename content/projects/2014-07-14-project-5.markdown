@@ -1,0 +1,8 @@
+---
+date: 2014-07-15
+image: "img/portfolio/nerodenneydotcom.jpg"
+title: nerodenney.com v1
+---
+
+v1.0 of the site you are on right now! The code is on GitHub so you can watch as it was developed and transitioned to v2.0. I decided to use Jekyll and host the code and finished product on GitHub-Pages due to the cost (lack of) and ease of use.
+

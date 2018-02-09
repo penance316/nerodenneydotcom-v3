@@ -1,0 +1,9 @@
+---
+date: 2016-10-20
+image: "img/portfolio/slack-spin.jpg"
+title: slack-spin slack bot
+---
+
+A chatbot for slack that randomly picks a person (to make tea?) written in NodeJS
+
+<a href="https://github.com/penance316/slack-spin/" target="_blank">View on GitHub</a>
