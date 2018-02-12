@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-01-29T11:59:23Z
-draft: true
+draft: false
 ---
 
 I am a web developer with a passion for front end design.

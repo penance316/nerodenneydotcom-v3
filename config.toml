@@ -1,4 +1,5 @@
 baseURL = "https://penance316.github.io/nerodenneydotcom-v3/"
+#baseURL = "http://localhost:8080/"
 languageCode = "en-gb"
 title = "nerodenney.com"
 theme = "introduction"
@@ -25,7 +26,7 @@ theme = "introduction"
     showBlog            = false                     # Show Blog section on home page
     showProjects        = true                      # Show Projects section on home page
     projectColumns      = "3"                       # Choose "2" or "3" columns for projects section
-    placeHolderimg      = "/img/workday.jpg"        # For Projects without image
+    placeHolderimg      = "img/workday.jpg"        # For Projects without image
     showAllPosts        = false                     # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showLatest          = true                      # Show latest blog post summary
     shareButtons        = true                      # On post pages, show share this social buttons
