@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 425px) {
+    .bold-title {
+        font-size:2rem;
+        text-align: center
+    }
+
+    .subtitle.is-3 {
+        font-size: 1rem;
+    }
+}
+
