@@ -31,6 +31,8 @@ theme = "introduction"
     showLatest          = true                      # Show latest blog post summary
     shareButtons        = true                      # On post pages, show share this social buttons
 
+    extraCSSFiles       = ["css/override.css"]
+
     # Share buttons
     shareTwitter        = true
     shareFacebook       = true
