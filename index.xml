@@ -22,6 +22,15 @@ Demo</description>
     </item>
     
     <item>
+      <title>nerodenney(dot)com v2</title>
+      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/nerodenney-v2/</link>
+      <pubDate>Thu, 01 Mar 2018 11:55:56 +0000</pubDate>
+      
+      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/nerodenney-v2/</guid>
+      <description>Created using the Jekyll static site software so I could utilise the free hosting found on GitHub-Pages.</description>
+    </item>
+    
+    <item>
       <title>Hyper Terminal Theme</title>
       <link>https://penance316.github.io/nerodenneydotcom-v3/projects/hyper-term/</link>
       <pubDate>Tue, 06 Feb 2018 13:27:34 +0000</pubDate>
@@ -40,7 +49,8 @@ npm i hyper-dark-vibrancy  </description>
       <pubDate>Mon, 29 Jan 2018 11:59:27 +0000</pubDate>
       
       <guid>https://penance316.github.io/nerodenneydotcom-v3/contact/</guid>
-      <description>For enquiries please contact below</description>
+      <description> For enquiries please contact below
+ Brighton, UK </description>
     </item>
     
     <item>
@@ -124,12 +134,12 @@ View on GitHub</description>
     </item>
     
     <item>
-      <title>nerodenney.com v1</title>
+      <title>nerodenney(dot)com v1</title>
       <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-14-project-5/</link>
       <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-14-project-5/</guid>
-      <description>v1.0 of the site you are on right now! The code is on GitHub so you can watch as it was developed and transitioned to v2.0. I decided to use Jekyll and host the code and finished product on GitHub-Pages due to the cost (lack of) and ease of use.</description>
+      <description>v1.0 of the site you are on right now!</description>
     </item>
     
   </channel>
