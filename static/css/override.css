@@ -10,3 +10,6 @@
     }
 }
 
+img.rounded{
+    border-radius: 90%;
+}

@@ -41,8 +41,8 @@ Languages
 Frameworks
 
 * Drupal
-* Laravel
+* Laravel ♥
 * Backbone, underscore, jQuery
-* Angular ♥
-* VueJS
+* Angular
+* VueJS ♥
 
