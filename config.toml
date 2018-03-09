@@ -3,13 +3,14 @@ baseURL = "https://penance316.github.io/nerodenneydotcom-v3/"
 languageCode = "en-gb"
 title = "nerodenney.com"
 theme = "introduction"
+googleAnalytics   = "UA-67566726-3"
 
 [params]
     blogHead        = "Blog"                        # Full name shows on blog post pages
     firstName       = "Nero"                        # First name shows in introduction on main page
     tagLine         = "Design - Develop - Deploy"     # Appears after the introduction
     introHeight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
-    themeStyle      = "dark"                        # Choose 'light' or 'dark'
+    themeStyle      = "light"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.png"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email           = "nerodenney@gmail.com"        # Shows in contact section, or leave blank to omit
     # localTime       = true                        # Show your current local time in contact section
