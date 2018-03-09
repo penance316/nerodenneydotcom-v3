@@ -4,6 +4,7 @@ languageCode = "en-gb"
 title = "nerodenney.com"
 theme = "introduction"
 googleAnalytics   = "UA-67566726-3"
+enforce_ssl         = true
 
 [params]
     blogHead        = "Blog"                        # Full name shows on blog post pages
