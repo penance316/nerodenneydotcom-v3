@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on nerodenney.com</title>
-    <link>https://penance316.github.io/nerodenneydotcom-v3/projects/</link>
+    <link>https://nerodenney.com/projects/</link>
     <description>Recent content in Projects on nerodenney.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 13 Nov 2017 12:21:16 -0500</lastBuildDate>
     
-	<atom:link href="https://penance316.github.io/nerodenneydotcom-v3/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nerodenney.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Matrix Rain (P5-JS)</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/matrix-rain/</link>
+      <link>https://nerodenney.com/projects/matrix-rain/</link>
       <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/matrix-rain/</guid>
+      <guid>https://nerodenney.com/projects/matrix-rain/</guid>
       <description>A small matrix rain demo using p5.js
 Demo</description>
     </item>
     
     <item>
       <title>nerodenney(dot)com v2</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/nerodenney-v2/</link>
+      <link>https://nerodenney.com/projects/nerodenney-v2/</link>
       <pubDate>Thu, 01 Mar 2018 11:55:56 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/nerodenney-v2/</guid>
+      <guid>https://nerodenney.com/projects/nerodenney-v2/</guid>
       <description>Created using the Jekyll static site software so I could utilise the free hosting found on GitHub-Pages.</description>
     </item>
     
     <item>
       <title>Hyper Terminal Theme</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/hyper-term/</link>
+      <link>https://nerodenney.com/projects/hyper-term/</link>
       <pubDate>Tue, 06 Feb 2018 13:27:34 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/hyper-term/</guid>
+      <guid>https://nerodenney.com/projects/hyper-term/</guid>
       <description>Hyper Terminal Theme (HYPER-DARK-VIBRANCY)
 A dark demo theme for Hyper Terminal to showoff the new vibrancy effect on macOS only.
 View on GitHub
@@ -45,79 +45,79 @@ npm i hyper-dark-vibrancy  </description>
     
     <item>
       <title>Base64 Converter Progressive WebApp</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-11-28-project-8/</link>
+      <link>https://nerodenney.com/projects/2016-11-28-project-8/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-11-28-project-8/</guid>
+      <guid>https://nerodenney.com/projects/2016-11-28-project-8/</guid>
       <description>A utility to encode/decode strings and files into base64. This is a remake of my Chrome app due to Google ending support for Chrome apps. I used progressive techniques including offline mode so this web app can function much more like a traditional mobile app.
 Try Me</description>
     </item>
     
     <item>
       <title>slack-spin slack bot</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-10-20-project-7/</link>
+      <link>https://nerodenney.com/projects/2016-10-20-project-7/</link>
       <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-10-20-project-7/</guid>
+      <guid>https://nerodenney.com/projects/2016-10-20-project-7/</guid>
       <description>A chatbot for slack that randomly picks a person (to make tea?) written in NodeJS
 View on GitHub</description>
     </item>
     
     <item>
       <title>GIS Viewer Concept</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-08-11-project-6/</link>
+      <link>https://nerodenney.com/projects/2016-08-11-project-6/</link>
       <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2016-08-11-project-6/</guid>
+      <guid>https://nerodenney.com/projects/2016-08-11-project-6/</guid>
       <description>A proof of concept GIS viewer built in AngularJS and OpenLayers3. This project was to test out the capabilities of the OpenLayers3 framework and includes the ability to have multiple mapping layers, draw shapes and a postcode search.
 View on GitHub</description>
     </item>
     
     <item>
       <title>Base64 Converter Chrome App</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-18-project-1/</link>
+      <link>https://nerodenney.com/projects/2014-07-18-project-1/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-18-project-1/</guid>
+      <guid>https://nerodenney.com/projects/2014-07-18-project-1/</guid>
       <description>An app I made for the Chrome App store that can convert text and files to and from base64 encoded strings. I made this app for my own use as I found myself needing this functionality a lot within some other projects I was working on. I like the idea of Chrome Apps and noticed there was not a simple easy to use app like this in the store already.</description>
     </item>
     
     <item>
       <title>Destructeev - One time read messages</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-17-project-2/</link>
+      <link>https://nerodenney.com/projects/2014-07-17-project-2/</link>
       <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-17-project-2/</guid>
+      <guid>https://nerodenney.com/projects/2014-07-17-project-2/</guid>
       <description>Built using the MEAN stack; NodeJs, AngularJs, express and MongoDb this application is used to create one time read messages. Once a message has been created the writer gets a link he/she can send to another party which gives them a one time view of the contents before deletion.
 View on GitHub</description>
     </item>
     
     <item>
       <title>Groundsure GIS Ordering Platform</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-16-project-3/</link>
+      <link>https://nerodenney.com/projects/2014-07-16-project-3/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-16-project-3/</guid>
+      <guid>https://nerodenney.com/projects/2014-07-16-project-3/</guid>
       <description>I helped design and develop a GIS based ordering platform for environmental reports used during land and property acquisition. This project involved heavy use of the ESRI mapping framework and Microsoft’s TypeScript project. As this is a commercial application I cannot go into too much detail regarding specific implementation or environmental details about this project.
 View Marketing Site</description>
     </item>
     
     <item>
       <title>PDF Compressor Web Api</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-15-project-4/</link>
+      <link>https://nerodenney.com/projects/2014-07-15-project-4/</link>
       <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-15-project-4/</guid>
+      <guid>https://nerodenney.com/projects/2014-07-15-project-4/</guid>
       <description>This is a web service that can compress pdf files using the iTextSharp library. I created this as a web service so it could easily be used by many systems/people.
 View on GitHub</description>
     </item>
     
     <item>
       <title>nerodenney(dot)com v1</title>
-      <link>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-14-project-5/</link>
+      <link>https://nerodenney.com/projects/2014-07-14-project-5/</link>
       <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://penance316.github.io/nerodenneydotcom-v3/projects/2014-07-14-project-5/</guid>
+      <guid>https://nerodenney.com/projects/2014-07-14-project-5/</guid>
       <description>v1.0 of the site you are on right now!</description>
     </item>
     
