@@ -1,7 +1,6 @@
-
 @media screen and (max-width: 425px) {
     .bold-title {
-        font-size:2rem;
+        font-size: 2rem;
         text-align: center
     }
 
@@ -10,6 +9,20 @@
     }
 }
 
-img.rounded{
+img.rounded {
     border-radius: 90%;
+}
+
+.modal-card {
+    border-radius: 5px;
+    padding: 9px;
+    border: 1px solid #e2e2e2;
+}
+
+.modal-card-body, .modal-card {
+    background-color: #fafafa;
+}
+
+.markdown a {
+    font-weight: bold;
 }

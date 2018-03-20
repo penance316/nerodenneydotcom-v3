@@ -20,7 +20,7 @@ I am a web developer with a passion for front end design.
 
 Technologies
 
-* Latest build systems including webpack and ParcelJs ♥
+* Latest build systems including Webpack v4 and ParcelJs ♥
 * Gulp, grunt
 * Material design ♥
 * GIT, Mercurial and SVN VCS
@@ -28,21 +28,21 @@ Technologies
 
 Languages
 
-* HTML5 
-* CSS3 
-* Javascript (es2017) using babel ♥
+* Javascript (es2017) using babel ♥ \
 * SASS – bourbon ♥
+* PHP 5 / 7
 * Typescript ♥
 * C# ♥
-* PHP 7
+* HTML5 
+* CSS3 
 * Asp.net
 * Java
 
 Frameworks
 
-* Drupal
-* Laravel ♥
-* Backbone, underscore, jQuery
-* Angular
+* Drupal CMS
 * VueJS ♥
+* Laravel ♥
+* Angular
+* Backbone, underscore, jQuery
 
