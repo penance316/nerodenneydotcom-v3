@@ -22,7 +22,7 @@ enforce_ssl         = true
     description     = "Website Description"         # Max 160 characters show in search results
     faviconFile     = "favicon.ico"
     highlightjs     = true                          # Syntax highlighting
-    footerText      = "Copyright © Nero Denney 2018"# Text to show in footer (overrides default text)
+    footerText      = "Copyright © Nero Denney 2019"# Text to show in footer (overrides default text)
     fadeIn          = true                          # Turn on/off the fade-in effect
 
     showBlog            = false                     # Show Blog section on home page
