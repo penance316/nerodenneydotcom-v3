@@ -51,12 +51,16 @@ crossorigin="anonymous"></script>
 
 
 
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-67566726-3', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-67566726-3', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-<script async src='//www.google-analytics.com/analytics.js'></script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 
@@ -148,7 +152,7 @@ ga('send', 'pageview');
                 <div class="section" id="footer">
     <div class="container has-text-centered">
         
-            Copyright © Nero Denney 2018
+            Copyright © Nero Denney 2019
         
     </div>
 </div>
