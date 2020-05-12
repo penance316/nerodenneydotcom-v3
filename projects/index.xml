@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nerodenney.com</title>
-    <link>https://nerodenney.com/</link>
-    <description>Recent content on nerodenney.com</description>
+    <title>Projects on nerodenney.com</title>
+    <link>https://nerodenney.com/projects/</link>
+    <description>Recent content in Projects on nerodenney.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2020 15:02:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 15:04:35 +0100</lastBuildDate>
     
-	<atom:link href="https://nerodenney.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nerodenney.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -109,16 +109,6 @@ View on Github </description>
       <guid>https://nerodenney.com/projects/gisviewerconcept/</guid>
       <description>A proof of concept GIS viewer built in AngularJS and OpenLayers3. This project was to test out the capabilities of the OpenLayers3 framework and includes the ability to have multiple mapping layers, draw shapes and a postcode search.
 View on Github </description>
-    </item>
-    
-    <item>
-      <title>nerodenney.com</title>
-      <link>https://nerodenney.com/home/</link>
-      <pubDate>Mon, 11 May 2020 15:02:00 +0100</pubDate>
-      
-      <guid>https://nerodenney.com/home/</guid>
-      <description>Design - Develop - Deploy
- (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:808108,hjsv:6}; a=o.getElementsByTagName(&#39;head&#39;)[0]; r=o.createElement(&#39;script&#39;);r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,&#39;https://static.hotjar.com/c/hotjar-&#39;,&#39;.js?sv=&#39;);  </description>
     </item>
     
     <item>
