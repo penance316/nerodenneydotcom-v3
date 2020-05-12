@@ -1,7 +1,6 @@
 ---
 title: "nerodenney.com"
 date: 2020-05-11T15:02:00+01:00
-draft: false
 ---
 Design - Develop - Deploy
 

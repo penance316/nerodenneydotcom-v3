@@ -1,6 +1,5 @@
 ---
 title: "About"
-draft: true
 image: "profile.png"
 weight: 0
 ---
