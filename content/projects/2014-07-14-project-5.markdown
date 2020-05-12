@@ -1,7 +1,0 @@
----
-date: 2014-07-15
-image: "img/portfolio/nerodenneydotcom.jpg"
-title: nerodenney(dot)com v1
----
-v1.0 of the site you are on right now!
-

@@ -1,8 +1,0 @@
----
-date: 2014-07-15
-image: "img/portfolio/pdfCompressor.jpg"
-title: PDF Compressor Web Api
----
-This is a web service that can compress pdf files using the iTextSharp library. I created this as a web service so it could easily be used by many systems/people.
-
-<a href="https://github.com/penance316/CompressPdfWebApi/" target="_blank">View on GitHub</a>

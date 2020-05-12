@@ -1,9 +1,0 @@
----
-date: 2014-07-17
-image: "img/portfolio/destructeev.jpg"
-title: Destructeev - One time read messages
-
----
-Built using the MEAN stack; NodeJs, AngularJs, express and MongoDb this application is used to create one time read messages. Once a message has been created the writer gets a link he/she can send to another party which gives them a one time view of the contents before deletion.
-
-<a href="https://github.com/penance316/destructeev" target="_blank">View on GitHub</a>
