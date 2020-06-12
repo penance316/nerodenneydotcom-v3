@@ -82,6 +82,16 @@ View on GitHub </description>
     </item>
     
     <item>
+      <title>Pokemon React, styled-components and GraphQL example</title>
+      <link>https://nerodenney.com/projects/react-pokemon-graphql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerodenney.com/projects/react-pokemon-graphql/</guid>
+      <description>Just a quick play with React framework while utilising styled-components and a GraphQL service to gather the data.
+View on GitHub </description>
+    </item>
+    
+    <item>
       <title>slack-spin slack bot</title>
       <link>https://nerodenney.com/projects/slack-spin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
