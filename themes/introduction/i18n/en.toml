@@ -15,7 +15,7 @@
 [nav_backToSection]
     other = "Back to {{ .Title }}"
 [nav_main]
-    other = "main"
+    other = "Home"
 [blog_readingTime]
     one = "{{ .Count }} minute read"
     other = "{{ .Count }} minutes read"
