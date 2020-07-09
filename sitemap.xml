@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>https://nerodenney.com/projects/base64converterwebapp/</loc>
-  </url>
-  
-  <url>
     <loc>https://nerodenney.com/projects/groundsure/</loc>
   </url>
   
@@ -39,6 +35,14 @@
   </url>
   
   <url>
+    <loc>https://nerodenney.com/projects/tetris/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nerodenney.com/projects/base64converterwebapp/</loc>
+  </url>
+  
+  <url>
     <loc>https://nerodenney.com/projects/destructeev/</loc>
   </url>
   
@@ -47,13 +51,13 @@
   </url>
   
   <url>
-    <loc>https://nerodenney.com/projects/</loc>
+    <loc>https://nerodenney.com/</loc>
     <lastmod>2020-05-11T15:04:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nerodenney.com/</loc>
-    <lastmod>2020-05-11T15:02:00+01:00</lastmod>
+    <loc>https://nerodenney.com/projects/</loc>
+    <lastmod>2020-05-11T15:04:35+01:00</lastmod>
   </url>
   
   <url>

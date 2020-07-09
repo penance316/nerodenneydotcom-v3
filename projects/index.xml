@@ -21,16 +21,6 @@
     </item>
     
     <item>
-      <title>Base64 Converter Progressive WebApp</title>
-      <link>https://nerodenney.com/projects/base64converterwebapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nerodenney.com/projects/base64converterwebapp/</guid>
-      <description>A utility to encode/decode strings and files into base64. This is a remake of my Chrome app due to Google ending support for Chrome apps. I used progressive techniques including offline mode so this web app can function much more like a traditional mobile app.
-Try me </description>
-    </item>
-    
-    <item>
       <title>Groundsure GIS Ordering Platform</title>
       <link>https://nerodenney.com/projects/groundsure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -99,6 +89,26 @@ View on GitHub </description>
       <guid>https://nerodenney.com/projects/slack-spin/</guid>
       <description>A chatbot for slack that randomly picks a person (to make tea?) written in NodeJS
 View on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Tetris clone</title>
+      <link>https://nerodenney.com/projects/tetris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerodenney.com/projects/tetris/</guid>
+      <description>A basic tetris implementation in javascript
+Play on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Base64 Converter Progressive WebApp</title>
+      <link>https://nerodenney.com/projects/base64converterwebapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerodenney.com/projects/base64converterwebapp/</guid>
+      <description>A utility to encode/decode strings and files into base64. This is a remake of my Chrome app due to Google ending support for Chrome apps. I used progressive techniques including offline mode so this web app can function much more like a traditional mobile app.
+Try me </description>
     </item>
     
     <item>
