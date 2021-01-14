@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "profile.png"
+image: "profile_new-min.png"
 weight: 0
 ---
 

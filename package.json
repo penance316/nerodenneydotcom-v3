@@ -4,7 +4,9 @@
   "description": "Built using Hugo engine",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "hugo serve -b localhost",
+    "build-dev": "hugo"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,7 @@
   },
   "homepage": "https://github.com/penance316/nerodenneydotcom-v3#readme",
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
-    "postcss-cli": "^7.1.1"
+    "postcss-cli": "7.1.1",
+    "autoprefixer": "9.8.4"
   }
 }
