@@ -6,11 +6,7 @@
     <description>Recent content on nerodenney.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2020 15:04:35 +0100</lastBuildDate>
-    
-	<atom:link href="https://nerodenney.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 11 May 2020 15:04:35 +0100</lastBuildDate><atom:link href="https://nerodenney.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Base64 Converter Chrome App</title>
       <link>https://nerodenney.com/projects/base64converterchromeapp/</link>
@@ -53,15 +49,6 @@ Demo </description>
     </item>
     
     <item>
-      <title>nerodenney(dot)com v2</title>
-      <link>https://nerodenney.com/projects/nerodenney-v2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nerodenney.com/projects/nerodenney-v2/</guid>
-      <description>Created using the Jekyll static site software so I could utilise the free hosting found on GitHub-Pages.</description>
-    </item>
-    
-    <item>
       <title>PDF Compressor Web Api</title>
       <link>https://nerodenney.com/projects/pdfcompressor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,6 +56,17 @@ Demo </description>
       <guid>https://nerodenney.com/projects/pdfcompressor/</guid>
       <description>This is a web service that can compress pdf files using the iTextSharp library. I created this as a web service so it could easily be used by many systems/people.
 View on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Pixel rain effect (Vanilla JS)</title>
+      <link>https://nerodenney.com/projects/pixel-rain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerodenney.com/projects/pixel-rain/</guid>
+      <description>A javascript experiment which shows falling pixels with their speed mapped to the original image&amp;rsquo;s brightness.
+We split the image into coloured RGBA pixels and use these values to calculate a human percieved lightness value which is then used to adjust the speed of a travelling pixel.
+ View on GitHub | Demo</description>
     </item>
     
     <item>
@@ -129,6 +127,15 @@ View on Github </description>
       <guid>https://nerodenney.com/projects/gisviewerconcept/</guid>
       <description>A proof of concept GIS viewer built in AngularJS and OpenLayers3. This project was to test out the capabilities of the OpenLayers3 framework and includes the ability to have multiple mapping layers, draw shapes and a postcode search.
 View on Github </description>
+    </item>
+    
+    <item>
+      <title>nerodenney(dot)com v2</title>
+      <link>https://nerodenney.com/projects/nerodenney-v2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerodenney.com/projects/nerodenney-v2/</guid>
+      <description>Created using the Jekyll static site software so I could utilise the free hosting found on GitHub-Pages.</description>
     </item>
     
     <item>
