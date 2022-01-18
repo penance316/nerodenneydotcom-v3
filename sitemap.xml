@@ -1,80 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nerodenney.com/projects/base64converterchromeapp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/groundsure/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/hyper-term/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/matrix-rain/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/pdfcompressor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/pixel-rain/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/react-pokemon-graphql/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/slack-spin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/tetris/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/base64converterwebapp/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/destructeev/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/gisviewerconcept/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/nerodenney-v2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/</loc>
     <lastmod>2020-05-11T15:04:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/</loc>
     <lastmod>2020-05-11T15:04:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/home/</loc>
     <lastmod>2020-05-11T15:02:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/projects/nerodenneydotcom/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nerodenney.com/tags/</loc>
   </url>
-  
 </urlset>
