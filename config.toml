@@ -90,4 +90,4 @@ googleAnalytics                  = "UA-67566726-3"                       # https
         title            = "nerodenney.com"
         [languages.en.params]
             description  = "Nero's personal site"   # Max 160 characters show in search results
-            footerText   = "Copyright © Nero Denney 2021"                      # Text to override default footer text (markdown allowed)
+            footerText   = "Copyright © Nero Denney 2022"                      # Text to override default footer text (markdown allowed)

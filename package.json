@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/penance316/nerodenneydotcom-v3#readme",
   "devDependencies": {
-    "postcss-cli": "7.1.1",
-    "autoprefixer": "9.8.4"
+    "autoprefixer": "^10.4.2",
+    "postcss-cli": "^9.1.0"
   }
 }
