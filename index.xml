@@ -66,7 +66,7 @@ View on GitHub </description>
       <guid>https://nerodenney.com/projects/pixel-rain/</guid>
       <description>A javascript experiment which shows falling pixels with their speed mapped to the original image&amp;rsquo;s brightness.
 We split the image into coloured RGBA pixels and use these values to calculate a human percieved lightness value which is then used to adjust the speed of a travelling pixel.
- View on GitHub | Demo</description>
+View on GitHub | Demo</description>
     </item>
     
     <item>
@@ -144,8 +144,7 @@ View on Github </description>
       <pubDate>Mon, 11 May 2020 15:02:00 +0100</pubDate>
       
       <guid>https://nerodenney.com/home/</guid>
-      <description>Design - Develop - Deploy
- (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:808108,hjsv:6}; a=o.getElementsByTagName(&#39;head&#39;)[0]; r=o.createElement(&#39;script&#39;);r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,&#39;https://static.hotjar.com/c/hotjar-&#39;,&#39;.js?sv=&#39;);  </description>
+      <description>Design - Develop - Deploy</description>
     </item>
     
     <item>
