@@ -11,8 +11,9 @@ googleAnalytics                  = "UA-67566726-3"                       # https
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "nerodenney@gmail.com"   # E-mail address for contact section
+    email                        = "nero@nerodenney.com"   # E-mail address for contact section
     customCSS                    = ["override.css"]             # Include custom css files placed under assets/
+    customJS                     = ["modalClose.js"]             # Include custom css files placed under assets/
 
     # Configure the home page
     [params.home]
@@ -53,7 +54,7 @@ googleAnalytics                  = "UA-67566726-3"                       # https
         icon_pack = "fab"
 
     [[params.social]]
-        url = "mailto:nerodenney@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:nero@nerodenney.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
 
