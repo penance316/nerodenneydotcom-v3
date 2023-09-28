@@ -21,17 +21,16 @@ Hi there, web developer here 👋
 
 Technologies
 
-- Latest build systems including Webpack v4 and ParcelJs ♥
-- Gulp, grunt
-- Material design ♥
+- Latest build systems Vite, Webpack, npm scripts etc ♥
+- Task runners gulp, grunt
 - GIT, Mercurial and SVN VCS
 - Teamcity, travisCI build systems
 
 Languages
 
-- Javascript (es2017) using babel ♥
-- SASS – bourbon ♥
-- PHP 5 / 7
+- Javascript (es6+) ♥
+- PHP 5 / 7 / 8+ ♥
+- SASS
 - Typescript ♥
 - C# ♥
 - HTML5
